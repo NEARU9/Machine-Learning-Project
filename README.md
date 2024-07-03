@@ -11,4 +11,5 @@ In this project, I developed a house price prediction model using linear regress
 
 Feel free to explore the project for detailed analysis and outcomes!
 
-note: Update Data_Cleaning_ EDA_&_ML_Models
+Note: Scripts in the "Data_Cleaning_ EDA_&_ML_Models" section are designed to be more complex, incorporating multiple models and featuring enhanced visualizations.
+
